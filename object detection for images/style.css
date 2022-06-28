@@ -1,0 +1,42 @@
+body{
+    background-size:cover;
+    background-position:center ;
+    }
+    #head {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    }
+    
+#AC{
+ background-color: aquamarine; 
+ font-size:14px ;
+ width:20%;  
+}
+#BikeandScooty{
+    background-color: aquamarine; 
+    font-size:14px ;
+    width:20%;    
+}
+#dressingtable{
+    background-color: aquamarine; 
+    font-size:14px ;
+    width:20%;    
+}
+#helmet{
+    background-color: aquamarine; 
+    font-size:14px ;
+    width:20%;     
+}
+
+#toy{
+    background-color: aquamarine; 
+    font-size:14px ;
+    width:20%;     
+}
+
+#wardrobe{
+    background-color: aquamarine; 
+    font-size:14px ;
+    width:20%;     
+}
